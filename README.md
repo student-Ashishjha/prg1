@@ -1,2 +1,2 @@
-# prg1
+#python dsa
 This is my first program
